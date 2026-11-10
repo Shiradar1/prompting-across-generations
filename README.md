@@ -86,4 +86,4 @@ The script is organized by the sections of the article:
 
 If you use these materials, please cite the article:
 
-Darchi, S., Pinter, Y., & Sadeh, T. (in press). Prompting across generations: Question complexity, creativity, and perceived response quality in human-LLM interaction. *Journal of Intelligence*.
+Darchi, S., Pinter, Y., & Sadeh, T. (in press). Prompting across generations: Question complexity, creativity, and perceived response quality in human-LLM interaction.
